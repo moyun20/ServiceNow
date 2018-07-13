@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_requested_fo_email" label="Requested for email" language="en" table="x_226638_needlt_needlt">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_requested_fo_email</element>
+            <help/>
+            <hint/>
+            <label>Requested for email</label>
+            <language>en</language>
+            <name>x_226638_needlt_needlt</name>
+            <plural>Requested for emails</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-11 01:45:02</sys_created_on>
+            <sys_id>1be8cca8db97130053e073278c96190e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Requested for email</sys_name>
+            <sys_package display_value="Needlt" source="x_226638_needlt">68af7f2fdbba130053e073278c9619fd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Needlt">68af7f2fdbba130053e073278c9619fd</sys_scope>
+            <sys_update_name>sys_documentation_x_226638_needlt_needlt_u_requested_fo_email_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-11 01:45:02</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
