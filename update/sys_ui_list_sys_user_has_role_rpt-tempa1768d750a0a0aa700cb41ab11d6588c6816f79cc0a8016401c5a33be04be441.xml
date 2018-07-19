@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="sys_user_has_role" version="2" view="rpt-tempa1768d750a0a0aa700cb41ab11d6588c6816f79cc0a8016401c5a33be04be441">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>role</element>
+            <list_id display_value="sys_user_has_role" element="NULL" name="sys_user_has_role" parent="NULL" relationship="NULL" sys_domain="global" view="0957c891dbd3130053e073278c9619ca">9d57c891dbd3130053e073278c9619e8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 09:33:30</sys_created_on>
+            <sys_id>1957c891dbd3130053e073278c9619e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 09:33:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>user</element>
+            <list_id display_value="sys_user_has_role" element="NULL" name="sys_user_has_role" parent="NULL" relationship="NULL" sys_domain="global" view="0957c891dbd3130053e073278c9619ca">9d57c891dbd3130053e073278c9619e8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 09:33:30</sys_created_on>
+            <sys_id>9d57c891dbd3130053e073278c9619e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 09:33:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>user.user_name</element>
+            <list_id display_value="sys_user_has_role" element="NULL" name="sys_user_has_role" parent="NULL" relationship="NULL" sys_domain="global" view="0957c891dbd3130053e073278c9619ca">9d57c891dbd3130053e073278c9619e8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 09:33:30</sys_created_on>
+            <sys_id>1157c891dbd3130053e073278c9619ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 09:33:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>user.employee_number</element>
+            <list_id display_value="sys_user_has_role" element="NULL" name="sys_user_has_role" parent="NULL" relationship="NULL" sys_domain="global" view="0957c891dbd3130053e073278c9619ca">9d57c891dbd3130053e073278c9619e8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 09:33:30</sys_created_on>
+            <sys_id>9157c891dbd3130053e073278c9619ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 09:33:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>user.department</element>
+            <list_id display_value="sys_user_has_role" element="NULL" name="sys_user_has_role" parent="NULL" relationship="NULL" sys_domain="global" view="0957c891dbd3130053e073278c9619ca">9d57c891dbd3130053e073278c9619e8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 09:33:30</sys_created_on>
+            <sys_id>1557c891dbd3130053e073278c9619ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 09:33:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>sys_user_has_role</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 09:33:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9d57c891dbd3130053e073278c9619e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name/>
+            <sys_package/>
+            <sys_policy/>
+            <sys_scope display_value="Needlt">68af7f2fdbba130053e073278c9619fd</sys_scope>
+            <sys_update_name/>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 09:33:30</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpt-tempa1768d750a0a0aa700cb41ab11d6588c6816f79cc0a8016401c5a33be04be441" name="rpt-tempa1768d750a0a0aa700cb41ab11d6588c6816f79cc0a8016401c5a33be04be441">0957c891dbd3130053e073278c9619ca</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
