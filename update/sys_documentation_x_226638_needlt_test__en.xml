@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="u_other" label="other" language="en" table="x_226638_needlt_innovate">
+    <sys_documentation element="" label="test" language="en" table="x_226638_needlt_test">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>u_other</element>
+            <element/>
             <help/>
             <hint/>
-            <label>other</label>
+            <label>test</label>
             <language>en</language>
-            <name>x_226638_needlt_innovate</name>
-            <plural>others</plural>
+            <name>x_226638_needlt_test</name>
+            <plural>tests</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-06-29 07:36:03</sys_created_on>
-            <sys_id>e436632cdb43530053e073278c961975</sys_id>
+            <sys_created_on>2018-07-23 07:32:58</sys_created_on>
+            <sys_id>0dab4394dba3130053e073278c9619d4</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>other</sys_name>
+            <sys_name>test</sys_name>
             <sys_package display_value="Needlt" source="x_226638_needlt">68af7f2fdbba130053e073278c9619fd</sys_package>
             <sys_policy/>
             <sys_scope display_value="Needlt">68af7f2fdbba130053e073278c9619fd</sys_scope>
-            <sys_update_name>sys_documentation_x_226638_needlt_innovate_u_other_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_226638_needlt_test__en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-06-29 07:36:03</sys_updated_on>
+            <sys_updated_on>2018-07-23 07:32:58</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

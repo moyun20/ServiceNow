@@ -5,22 +5,22 @@
         <admin_overrides>true</admin_overrides>
         <advanced>false</advanced>
         <condition/>
-        <description>Default access control on x_226638_needlt_innovate</description>
-        <name>x_226638_needlt_innovate</name>
-        <operation display_value="read">read</operation>
+        <description>Default access control on x_226638_needlt_test</description>
+        <name>x_226638_needlt_test</name>
+        <operation display_value="create">create</operation>
         <script/>
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-06-28 02:47:13</sys_created_on>
-        <sys_id>377a9d54dbc7130053e073278c961993</sys_id>
+        <sys_created_on>2018-07-23 07:32:57</sys_created_on>
+        <sys_id>c5ab4394dba3130053e073278c961993</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_226638_needlt_innovate</sys_name>
+        <sys_name>x_226638_needlt_test</sys_name>
         <sys_package display_value="Needlt" source="x_226638_needlt">68af7f2fdbba130053e073278c9619fd</sys_package>
         <sys_policy/>
         <sys_scope display_value="Needlt">68af7f2fdbba130053e073278c9619fd</sys_scope>
-        <sys_update_name>sys_security_acl_377a9d54dbc7130053e073278c961993</sys_update_name>
+        <sys_update_name>sys_security_acl_c5ab4394dba3130053e073278c961993</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-06-28 02:47:13</sys_updated_on>
+        <sys_updated_on>2018-07-23 07:32:57</sys_updated_on>
         <type display_value="record">record</type>
     </sys_security_acl>
 </record_update>
